@@ -16,6 +16,6 @@ Sean Llera
 
 [Teammate's Repo Link](https://github.com/canlasla/ECE444-F2022-Lab1)
 
-![My Commit to Teammate's Repo Screenshot](Commit_to_teammates_repo_screenshot.jpg?raw=true "My Commit to Teammate's Repo Screenshot")
+![My Commit to Teammate's Repo Screenshot](Commit_to_teammates_repo_screenshot.JPG?raw=true "My Commit to Teammate's Repo Screenshot")
 
-![Teammate's Commit to my Repo Screenshot](Commit_teammate_made_to_my_repo.jpg?raw=true "Teammate's Commit to my Repo Screenshot")
+![Teammate's Commit to my Repo Screenshot](Commit_teammate_made_to_my_repo.JPG?raw=true "Teammate's Commit to my Repo Screenshot")
