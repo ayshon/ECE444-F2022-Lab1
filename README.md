@@ -31,3 +31,9 @@ Sean Llera
 **Activity 6**
 
 [Link to my EP Repo](https://github.com/ayshon/ECE444-F2022-EP)
+
+**Activity 7**
+
+![Activity 7 Website Title Screenshot](Activity7_website.JPG?raw=true "Activity 7 Website Title Screenshot")
+
+![Rebase Command and Output Screenshot Activity 7](Activity7_rebase_command.JPG?raw=true "Rebase Command and Output Screenshot Activity 7")
