@@ -37,3 +37,9 @@ Sean Llera
 ![Activity 7 Website Title Screenshot](Activity7_website.JPG?raw=true "Activity 7 Website Title Screenshot")
 
 ![Rebase Command and Output Screenshot Activity 7](Activity7_rebase_command.JPG?raw=true "Rebase Command and Output Screenshot Activity 7")
+
+**Activity 8**
+
+![Activity 8 Website Screenshot](Activity8_website.JPG?raw=true "Activity 7 Website Title Screenshot")
+
+![Rebase Command and Output Screenshot Activity 8](Activity8_rebase.JPG?raw=true "Rebase Command and Output Screenshot Activity 8")
