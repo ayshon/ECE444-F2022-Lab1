@@ -19,3 +19,11 @@ Sean Llera
 ![My Commit to Teammate's Repo Screenshot](Commit_to_teammates_repo_screenshot.JPG?raw=true "My Commit to Teammate's Repo Screenshot")
 
 ![Teammate's Commit to my Repo Screenshot](Commit_teammate_made_to_my_repo.JPG?raw=true "Teammate's Commit to my Repo Screenshot")
+
+**Activity 5**
+
+![Rebase Commands and Output Screenshot 1](Activity5_ss1.JPG?raw=true "Rebase Commands and Output Screenshot 1")
+
+![Rebase Commands and Output Screenshot 2](Activity5_ss2.JPG?raw=true "Rebase Commands and Output Screenshot 2")
+
+![Rebase Commands and Output Screenshot 3](Activity5_ss3.JPG?raw=true "Rebase Commands and Output Screenshot 3")
