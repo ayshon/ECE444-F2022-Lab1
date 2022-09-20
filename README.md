@@ -27,3 +27,7 @@ Sean Llera
 ![Rebase Commands and Output Screenshot 2](Activity5_ss2.JPG?raw=true "Rebase Commands and Output Screenshot 2")
 
 ![Rebase Commands and Output Screenshot 3](Activity5_ss3.JPG?raw=true "Rebase Commands and Output Screenshot 3")
+
+**Activity 6**
+
+[Link to my EP Repo](https://github.com/ayshon/ECE444-F2022-EP)
